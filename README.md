@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...C++
   
 - 💞️ I’m looking to collaborate on ...project
-- 📫 How to reach me ...shahariyaalam85@gmail.com
+- 📫 How to reach me : ahanafsabbir83@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
