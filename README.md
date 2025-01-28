@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @shahariyasabbir
 - 👀 I’m interested in ...learning and making money
-- 🌱 I’m currently learning ...C++
+- 🌱 I believe i am experienced with C and C++
+- 😎 currently i am learning "GO"....
   
 - 💞️ I’m looking to collaborate on ...project
 - 📫 How to reach me : ahanafsabbir83@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: proud muslim ..
+- ⚡ Fun fact: (rijiker malik allah....)
 
 <!---
 shahariyasabbir/shahariyasabbir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
