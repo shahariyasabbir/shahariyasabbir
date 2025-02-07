@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahariyasabbir
 - 👀 I’m interested in ...learning and making money
-- 🌱 I believe i am experienced with C and C++
+- 🌱 I believe i am experienced in C and C++
 - 😎 currently i am learning "GO"....
   
 - 💞️ I’m looking to collaborate on ...project
