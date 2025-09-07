@@ -14,19 +14,6 @@ I'm on a mission to expand my knowledge and skills in programming every day, wit
 - 🗄️ Understanding database concepts
 - 🔧 Enhancing version control with Git
 
-### Project Ideas:
-- 📝 **Personal Blog** - Share insights and lessons learned
-- 🎮 **Simple Game** - Implement programming concepts creatively
-- 📊 **Data Visualization** - Work with real-world data sets
-- 🤖 **Chatbot** - Dive into AI/ML fundamentals
-
-## 💻 Technologies I'm Exploring
-
-### Frontend
-| Technology | Badge |
-|------------|-------|
-| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-
 ## 🚀 My Projects
 
 ### [binary_tree](https://github.com/shahariyasabbir/binary_tree) - Exploring tree data structures
@@ -35,15 +22,16 @@ I'm on a mission to expand my knowledge and skills in programming every day, wit
 
 ### [demo.repo](https://github.com/shahariyasabbir/demo.repo) - A demo repository for learning purposes
 
+###[personal-portfolio-16](https://github.com/shahariyasabbir/personal-portfolio)
+
 ## 📫 Get In Touch
 
 Let's connect and grow together in the vast world of software development!
 
-- 📧 [Email](mailto:)
+- 📧 [Email:ahanafsabbir83@gmail.com]
+- 
 - 🌟 *Learning to code, one commit at a time!*
 
 🔗 [shahariya alam sabbir](https://github.com/shahariyasabbir)
-
----
 
 🚀 *Striving for excellence with each line of code!*
