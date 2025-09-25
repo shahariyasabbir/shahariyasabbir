@@ -19,9 +19,4 @@ I'm on a mission to expand my knowledge and skills in programming every day, wit
 Let's connect and grow together in the vast world of software development!
 
 - 📧 [Gmail:ahanafsabbir83@gmail.com]
-- 
-- 🌟 *Learning to code, one commit at a time!*
 
-🔗 [shahariya alam sabbir](https://github.com/shahariyasabbir)
-
-🚀 *Striving for excellence with each line of code!*
