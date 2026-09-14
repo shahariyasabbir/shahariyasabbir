@@ -6,10 +6,3 @@ I'm **shahariya alam sabbir**, a dedicated developer embarking on an exciting jo
 
 I'm on a mission to expand my knowledge and skills in programming every day, with a positive mindset towards growth and improvement.
 
-## 🎯 Learning Goals
-
-### Currently Learning:
-- 📚 Mastering the fundamentals of programming
-- 🌐 Exploring the basics of web development
-- 🗄️ Understanding database concepts
-- 🔧 Enhancing version control with Git
